@@ -1,0 +1,6 @@
+input("n===lista de livros para ler==")
+print("livro 1")
+print("livro 2")
+print("livro 3")
+print("livro 4")
+escolha = input("escolha uma opção(1-4)")
